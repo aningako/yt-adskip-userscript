@@ -104,3 +104,7 @@ This project is for personal and educational use. Use it at your own risk and in
 ## Credits
 
 Cooked by **aning** & **cipher** + **Claude**
+
+## License
+
+[MIT](LICENSE) © 2026 aning & cipher

@@ -3,6 +3,7 @@
 // @namespace    https://github.com/aningako/yt-adskip-userscript
 // @version      1.0.0
 // @author       aning & cipher + Claude
+// @license      MIT
 // @homepageURL  https://github.com/aningako/yt-adskip-userscript
 // @supportURL   https://github.com/aningako/yt-adskip-userscript/issues
 // @updateURL    https://raw.githubusercontent.com/aningako/yt-adskip-userscript/main/youtube-adskip.user.js
